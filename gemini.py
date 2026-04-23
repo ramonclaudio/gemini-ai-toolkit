@@ -3,7 +3,7 @@ from gemini_base import GeminiBase
 print("------------------------------------------------------------------\n")
 print("                         Gemini AI Toolkit                        \n")
 print("               API Wrapper & Command-line Interface               \n")
-print("                        [v1.3] by @rmncldyo                       \n")
+print("                        [v1.3] by @ramonclaudio                       \n")
 print("------------------------------------------------------------------\n")
 
 class Text(GeminiBase):

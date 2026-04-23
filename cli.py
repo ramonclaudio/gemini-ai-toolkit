@@ -8,7 +8,7 @@ def main():
     ------------------------------------------------------------------
                             Gemini AI Toolkit                          
                    API Wrapper & Command-line Interface               
-                            [v1.3] by @rmncldyo                      
+                            [v1.3] by @ramonclaudio                      
     ------------------------------------------------------------------
 
     Gemini AI toolkit is an API wrapper and command-line interface for Google's latest large language models.
@@ -18,7 +18,7 @@ def main():
     - Text: Single prompt-response interaction
     - Multimodal: Interaction with text and file inputs
 
-    For detailed usage information, visit: github.com/RMNCLDYO/gemini-ai-toolkit
+    For detailed usage information, visit: github.com/ramonclaudio/gemini-ai-toolkit
     """,
         formatter_class=argparse.RawDescriptionHelpFormatter
     )
